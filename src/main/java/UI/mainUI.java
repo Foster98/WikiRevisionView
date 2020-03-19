@@ -22,7 +22,7 @@ public class mainUI extends JFrame implements ActionListener {
     static JFrame frame;
     static JTextField text;
     static JButton button;
-    static JLabel noConnection;
+    static JLabel Connection;
     static JLabel noPage;
     static JLabel label;
 
@@ -72,9 +72,9 @@ public class mainUI extends JFrame implements ActionListener {
 
                 //checks connection
                 if (connection == null) {
-                    noConnection.setText("Connection Error...");
+                    Connection.setText("Connection Error...");
                     var noConnectionConstraints = new GridBagConstraints(1,1,1,1,1,1, GridBagConstraints.HORIZONTAL, GridBagConstraints.SOUTHWEST, new Insets(1,1,1,1), 0,0);
-                    panel.add(noConnection,noConnectionConstraints);
+                    panel.add(Connection,noConnectionConstraints);
                 }
 
 
@@ -112,7 +112,7 @@ public class mainUI extends JFrame implements ActionListener {
                         panel.updateUI();
 
                         redirected.setColumns(8);
-                        redirected.getPreferredSize();
+
 
 
 

@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c385889-8bc7-486c-a980-698b5a5ea47f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WikiRevisionView.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/ConnectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/WikiPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/checkRedirect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Edit/EditMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Edit/EditSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Edit/Editor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/ParameterIsNotJSONStringException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Parse/parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Revise/RevisionList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Revise/RevisionMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Revise/RevisionObjGetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UI/mainUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Domain/ConnectionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Domain/WikiPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Domain/checkRedirect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Edit/EditMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Edit/EditSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Edit/sortByEdits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Exceptions/ParameterIsNotJSONStringException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/WikiRevisionView.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Parse/parser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Revise/RevisionList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Revise/RevisionMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Revise/RevisionObjGetter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/UI/mainUI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="hadenfoster &lt;hgfoster@bsu.edu&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -162,7 +131,19 @@
       <option name="presentableId" value="Default" />
       <updated>1584458077357</updated>
     </task>
+    <task id="LOCAL-00001" summary="wiki revision viewer with UI">
+      <created>1584648558129</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584648558129</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="wiki revision viewer with UI" />
+    <option name="LAST_COMMIT_MESSAGE" value="wiki revision viewer with UI" />
   </component>
   <component name="WindowStateProjectService">
     <state x="363" y="84" key="#Project_Structure" timestamp="1584629956339">
@@ -178,62 +159,78 @@
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="283" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.832@0.23.1440.832" timestamp="1584539598538" />
-    <state width="1398" height="201" key="GridCell.Tab.0.bottom" timestamp="1584648387224">
+    <state x="284" y="40" key="CommitChangelistDialog2" timestamp="1584648557910">
       <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="284" y="40" key="CommitChangelistDialog2/0.23.1440.832@0.23.1440.832" timestamp="1584648557910" />
+    <state x="548" y="338" key="Github.ShareDialog" timestamp="1584648572287">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="548" y="338" key="Github.ShareDialog/0.23.1440.832@0.23.1440.832" timestamp="1584648572287" />
+    <state width="1398" height="266" key="GridCell.Tab.0.bottom" timestamp="1584648806092">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state width="1398" height="266" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1584482753467" />
     <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1584633380662" />
     <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1584648387224" />
-    <state width="1398" height="267" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1584467549570" />
-    <state width="1398" height="201" key="GridCell.Tab.0.center" timestamp="1584648387223">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="1398" height="266" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1584648806092" />
+    <state width="1398" height="266" key="GridCell.Tab.0.center" timestamp="1584648806091">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state width="1398" height="266" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1584482753466" />
     <state width="1398" height="201" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1584633380661" />
     <state width="1398" height="201" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1584648387223" />
-    <state width="1398" height="267" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1584467549569" />
-    <state width="1398" height="201" key="GridCell.Tab.0.left" timestamp="1584648387223">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="1398" height="266" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1584648806091" />
+    <state width="1398" height="266" key="GridCell.Tab.0.left" timestamp="1584648806091">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state width="1398" height="266" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1584482753465" />
     <state width="1398" height="201" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1584633380660" />
     <state width="1398" height="201" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1584648387223" />
-    <state width="1398" height="267" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1584467549569" />
-    <state width="1398" height="201" key="GridCell.Tab.0.right" timestamp="1584648387224">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="1398" height="266" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1584648806091" />
+    <state width="1398" height="266" key="GridCell.Tab.0.right" timestamp="1584648806092">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state width="1398" height="266" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1584482753466" />
     <state width="1398" height="201" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1584633380661" />
     <state width="1398" height="201" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1584648387224" />
-    <state width="1398" height="267" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1584467549570" />
-    <state width="1398" height="266" key="GridCell.Tab.1.bottom" timestamp="1584539244632">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="1398" height="266" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1584648806092" />
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom" timestamp="1584648806093">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state width="1398" height="267" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1584482753195" />
     <state width="1398" height="266" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1584539244632" />
-    <state width="1398" height="267" key="GridCell.Tab.1.bottom/0.23.1440.833@0.23.1440.833" timestamp="1584467549575" />
-    <state width="1398" height="266" key="GridCell.Tab.1.center" timestamp="1584539244631">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom/0.23.1440.833@0.23.1440.833" timestamp="1584648806093" />
+    <state width="1398" height="266" key="GridCell.Tab.1.center" timestamp="1584648806093">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state width="1398" height="267" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1584482753194" />
     <state width="1398" height="266" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1584539244631" />
-    <state width="1398" height="267" key="GridCell.Tab.1.center/0.23.1440.833@0.23.1440.833" timestamp="1584467549574" />
-    <state width="1398" height="266" key="GridCell.Tab.1.left" timestamp="1584539244630">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="1398" height="266" key="GridCell.Tab.1.center/0.23.1440.833@0.23.1440.833" timestamp="1584648806093" />
+    <state width="1398" height="266" key="GridCell.Tab.1.left" timestamp="1584648806092">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state width="1398" height="267" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1584482753194" />
     <state width="1398" height="266" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1584539244630" />
-    <state width="1398" height="267" key="GridCell.Tab.1.left/0.23.1440.833@0.23.1440.833" timestamp="1584467549573" />
-    <state width="1398" height="266" key="GridCell.Tab.1.right" timestamp="1584539244631">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="1398" height="266" key="GridCell.Tab.1.left/0.23.1440.833@0.23.1440.833" timestamp="1584648806092" />
+    <state width="1398" height="266" key="GridCell.Tab.1.right" timestamp="1584648806093">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state width="1398" height="267" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1584482753194" />
     <state width="1398" height="266" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1584539244631" />
-    <state width="1398" height="267" key="GridCell.Tab.1.right/0.23.1440.833@0.23.1440.833" timestamp="1584467549574" />
+    <state width="1398" height="266" key="GridCell.Tab.1.right/0.23.1440.833@0.23.1440.833" timestamp="1584648806093" />
     <state x="258" y="101" key="Maven.ArtifactSearchDialog" timestamp="1584471006133">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="258" y="101" key="Maven.ArtifactSearchDialog/0.23.1440.832@0.23.1440.832" timestamp="1584471006133" />
+    <state x="299" y="178" key="Vcs.Push.Dialog.v2" timestamp="1584648585685">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="299" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1584648585685" />
+    <state x="399" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1584649701529">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="399" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1584649701529" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/WikiRevisionView$main.ic" NAME="main Coverage Results" MODIFIED="1584482391901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
